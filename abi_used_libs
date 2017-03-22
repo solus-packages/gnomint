@@ -1,0 +1,11 @@
+libc.so.6
+libgconf-2.so.4
+libgcrypt.so.20
+libgdk_pixbuf-2.0.so.0
+libglib-2.0.so.0
+libgnutls.so.30
+libgobject-2.0.so.0
+libgtk-x11-2.0.so.0
+libpthread.so.0
+libreadline.so.6
+libsqlite3.so.0
